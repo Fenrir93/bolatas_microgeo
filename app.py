@@ -25,7 +25,7 @@ firebaseConfig = {
     }
 
 
-cred = credentials.Certificate("C:/Users/patricio.toro/Desktop/bolatas_microgeo/static/json/boletasmicreo-firebase-adminsdk-qmus6-ddf535662a.json")
+cred = credentials.Certificate("C:/Users/felipe.hormazabal/Desktop/bolatas_microgeo/static/json/boletasmicreo-firebase-adminsdk-qmus6-ddf535662a.json")
 
 
 
